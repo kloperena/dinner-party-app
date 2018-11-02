@@ -1,0 +1,39 @@
+body{
+    font-family: 'M PLUS 1p', sans-serif;
+    background-color: blanchedalmond;
+    text-transform: capitalize;
+
+}
+h3{
+    font-size: 45px;
+    color: #f47742;
+    text-align: center;
+}
+li{ 
+    font-size: 18px;
+}
+
+.jumbotron{
+    background-color: #9E682A;
+    color: #f1b930;
+    margin: 60px;
+
+}
+#questionaire{
+    color: #b54730;
+    font-size: 25px;
+}
+h4{
+    text-decoration: underline;
+}
+h2{
+    color: #b54730;
+    text-decoration: underline;
+}
+.instruction{
+    
+    color: #b54730;
+}
+.toggle{
+    color: #b54730;
+}
